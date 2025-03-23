@@ -1,0 +1,9 @@
+C:\dev\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+C:\dev\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+C:\dev\DesignPatterns\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+C:\dev\DesignPatterns\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
