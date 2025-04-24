@@ -1,4 +1,5 @@
-﻿using StrategyPattern;
+﻿using DesignPatterns.ObserverPattern;
+using StrategyPattern;
 
 namespace DesignPatterns;
 
@@ -8,5 +9,8 @@ public sealed class Program
     {
         Console.WriteLine("** Strategy Pattern **");
         Strategy.Run();
+
+        Console.WriteLine("\n** Observer Pattern **");
+        WeatherStation.Run();
     }
 }

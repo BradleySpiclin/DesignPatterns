@@ -31,6 +31,7 @@ Design patterns are proven solutions to common software design problems. They he
 ## Patterns Implemented
 
 - **Strategy Pattern** – Encapsulates algorithms and allows them to be selected at runtime.
+- **Observer Pattern** – Allows objects to subscribe and react to state changes in another object.
 - *(More patterns will be added as the repository grows!)*
 
 ## Contributing
