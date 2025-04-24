@@ -4,9 +4,9 @@
 
 This repository demonstrates the **Observer Pattern** using a **pull-based approach** in C#. The Observer Pattern enables an object (subject) to maintain a list of dependents (observers) and notify them automatically of any state changes.
 
-This pull-based design separates the responsibilities of the `Subject` and `Observer` by allowing observers to pull only the data they care about when notified of a change, offering flexibility and reducing coupling between components. You can implement this on a push based approach, however if we add new properties to the `WeatherStation` then all displays will also get those properties regardless if they use them or not. In this example we retrieve the data we care about.
+This pull-based design separates the responsibilities of the `Subject` and `Observer` by allowing observers to pull only the data they care about when notified of a change, offering flexibility and reducing coupling between components.
 
-In this example, we simulate a simple weather station. Different display classes subscribe to `WeatherData`, and when the weather data changes, only the relevant measurements are pulled by each observer.
+In this example, we simulate a simple weather station. Different display classes subscribe to `WeatherData`, and when the weather data changes, only the relevant measurements are pulled by each observer. You could implement this on a **push-based approach**, however if we add new properties to the `WeatherStation` then all displays will also get those properties regardless if they use them or not along with having to refactor all the `Update` methods for each display.
 
 ## Project Structure
 
