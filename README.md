@@ -6,6 +6,12 @@ This repository is dedicated to exploring and implementing various **design patt
 
 Each pattern is implemented in its own directory with an example, demonstrating its purpose and how it can be applied.
 
+## Patterns Implemented
+
+- [**Strategy Pattern**](https://github.com/BradleySpiclin/DesignPatterns/blob/master/StrategyPattern/Strategy.md) – Encapsulates algorithms and allows them to be selected at runtime.
+- [**Observer Pattern**](https://github.com/BradleySpiclin/DesignPatterns/blob/master/ObserverPattern/Observer.md) – Allows objects to subscribe and react to state changes in another object.
+- *(More patterns will be added as the repository grows!)*
+
 ## Why Design Patterns?
 
 Design patterns are proven solutions to common software design problems. They help improve **code maintainability**, **scalability**, and **reusability** by promoting best practices and standard solutions.
@@ -27,12 +33,6 @@ Design patterns are proven solutions to common software design problems. They he
    dotnet run
    ```
 4. Read the corresponding **README.md** file for a detailed explanation of each pattern.
-
-## Patterns Implemented
-
-- **Strategy Pattern** – Encapsulates algorithms and allows them to be selected at runtime.
-- **Observer Pattern** – Allows objects to subscribe and react to state changes in another object.
-- *(More patterns will be added as the repository grows!)*
 
 ## Contributing
 
